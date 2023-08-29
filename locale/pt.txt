@@ -1,0 +1,45 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_53838208_4174_5BB6_41BC_22425174F20C.source = https://wa.link/rdtso1
+LinkBehaviour_213C8353_3DFD_73B5_41B9_9503012B1868.source = https://wa.link/rdtso1
+
+## Media
+
+### Audio
+audiores_21901159_3DFD_4FB4_41C6_A0156C84931C.mp3Url = media/audio_203206C7_3DE7_529C_41A0_87EE896F08CC_pt.mp3
+
+### Title
+panorama_4F917ADB_414C_C84A_418F_1C626F825804.label = 01
+panorama_4F186931_414C_C9D6_41C0_F54A212DAC9E.label = 02
+panorama_4F1826BC_414C_D8CE_41C8_B13CC2BB0536.label = 03
+panorama_4F1853D2_414C_3855_41CE_4FC90774190B.label = 04
+panorama_4F18214C_414C_584E_41C0_B4915649BB07.label = 05
+video_552D546F_41CD_D84B_41BC_0C143DC48212.label = vídeo propaganda
+
+### Video
+videolevel_54FE0029_41F5_D7F6_41B4_C7B895FDBB36.posterURL = media/video_552D546F_41CD_D84B_41BC_0C143DC48212_poster_pt.jpg
+videolevel_54FE0029_41F5_D7F6_41B4_C7B895FDBB36.url = media/video_552D546F_41CD_D84B_41BC_0C143DC48212_pt.mp4
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_2159164D_3DE5_75AC_41AB_F1B1E81603CF.label = Iniciar
+Button_2159164D_3DE5_75AC_41AB_F1B1E81603CF_mobile.label = Iniciar
+
+### Image
+Image_21C2003A_3DE5_4DF7_4172_D5DC74A18AC5_mobile.url = skin/Image_21C2003A_3DE5_4DF7_4172_D5DC74A18AC5_mobile_pt.png
+Image_21C2003A_3DE5_4DF7_4172_D5DC74A18AC5.url = skin/Image_21C2003A_3DE5_4DF7_4172_D5DC74A18AC5_pt.png
+Image_2497D971_3DE4_BE75_41C6_45199DE8B7D5_mobile.url = skin/Image_2497D971_3DE4_BE75_41C6_45199DE8B7D5_mobile_pt.png
+Image_2497D971_3DE4_BE75_41C6_45199DE8B7D5.url = skin/Image_2497D971_3DE4_BE75_41C6_45199DE8B7D5_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = sala Via Mar
